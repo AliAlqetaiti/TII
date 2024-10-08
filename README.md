@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="images/Logo.png" alt="Company Logo" width="250" height="125">
+  <img src="Images/Logo.png" alt="Company Logo" width="250" height="125">
 </p>
 <p align="center">
   <span style="font-size: 36px; font-weight: bold;">Ali Alqetaiti Repo</span>
