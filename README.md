@@ -2,7 +2,9 @@
   <img src="Images/Logo.png" alt="Company Logo" width="250" height="125">
 </p>
 <p align="center">
-  <h1>Ali Alqetaiti Repo</h1>
+  <h1>
+    <span style="font-weight: bold;">Ali Alqetaiti Repo</span>
+  </h1>
 </p>
 
 ## Description
