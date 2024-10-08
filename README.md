@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Ali Alqetaiti Repo</h1>
-  <img src="Images/Logo.png" alt="Company Logo" width="250" height="125" style="vertical-align: middle;">
+  <img src="Images/Logo.png" alt="Company Logo" width="250" height="125" style="vertical-align: right;">
 </p>
 
 ## Description
