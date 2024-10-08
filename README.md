@@ -1,6 +1,7 @@
-<p align="center">
-  <span/h1>Ali Alqetaiti Repo</span/h1>
+<p align="left">
   <img src="Images/Logo.png" alt="Company Logo" width="250" height="125" style="vertical-align: right;">
+  <p align="right">
+     Ali Alqetaiti Repo
 </p>
 
 ## Description
